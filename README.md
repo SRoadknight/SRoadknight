@@ -15,9 +15,9 @@ I’m a Computer and Data Science graduate passionate about building software an
 - **SQL & Modern Data Tools:** Using SQL and modern data tools for efficient querying, transformation and analysis..  
 
 ## 🛠️ Some of the Tech I'm Using
+- **Programming Languages:** Python, JavaScript, SQL  
 - **Workflow Orchestration:** Airflow, Mage AI  
-- **Databases Systems:** PostgreSQL, MariaDB, MySQL, DuckDB, MotherDuck, Supabase  
-- **Software Development:** Python, FastAPI  
-- **Data Transformation & Analysis:** Python, SQL, dbt, Power BI
+- **Databases Systems:** PostgreSQL, MySQL, DuckDB, MotherDuck, Supabase  
+- **Data Transformation & Analysis:** Python, Pandas, SQL, dbt
 - **Visualisation Libraries/Tools:** A mix of Python and JavaScript libraries, Power BI
 - **Cloud Platforms & Deployment:** AWS, Azure  
